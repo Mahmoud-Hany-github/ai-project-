@@ -1,0 +1,11 @@
+API Name,Parameter,Result
+Alpha Vantage,ticker,AAPL
+Alpha Vantage,data,{'price': 150}
+Binance,crypto_symbol,BTCUSDT
+Binance,data,{'price': 50000}
+News API,keyword,stock market
+News API,articles,"['Article 1', 'Article 2']"
+
+Errors
+Polygon.io
+Quandl(Fred)
