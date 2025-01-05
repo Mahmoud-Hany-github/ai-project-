@@ -1,0 +1,809 @@
+{
+    "knowledge": [
+      {
+        "book_title": "The Little Book of Common Sense Investing",
+        "category": "Core Philosophy",
+        "key_concept": "Index Investing",
+        "description": "Investing in low-cost index funds is the simplest and most effective strategy, outperforming actively managed funds due to lower costs and better diversification.",
+        "example": "AI analyzes index performance to allocate portfolios efficiently."
+      },
+      {
+        "book_title": "The Little Book of Common Sense Investing",
+        "category": "Cost Matters",
+        "key_concept": "Expense Ratios",
+        "description": "High fees and transaction costs erode returns over time, making low-cost index funds a better choice.",
+        "example": "AI prioritizes cost-efficient investment vehicles for simulating long-term growth."
+      },
+      {
+        "book_title": "The Little Book of Common Sense Investing",
+        "category": "Compounding",
+        "key_concept": "Power of Compounding",
+        "description": "Reinvested dividends and steady growth compound wealth exponentially. Frequent trading reduces the compounding effect due to costs and taxes.",
+        "example": "AI optimizes for strategies that minimize portfolio turnover to maximize compounding."
+      },
+      {
+        "book_title": "The Little Book of Common Sense Investing",
+        "category": "Market Efficiency",
+        "key_concept": "Efficient Market Hypothesis (EMH)",
+        "description": "The stock market reflects the overall economy in the long run, making it hard to consistently beat the market. Index funds succeed by capturing market returns without trying to outperform.",
+        "example": "AI focuses on broad market trends and avoids short-term fluctuations."
+      },
+      {
+        "book_title": "The Little Book of Common Sense Investing",
+        "category": "Active Management",
+        "key_concept": "Underperformance of Active Funds",
+        "description": "Most actively managed funds fail to beat benchmark indices due to fees and human error. Survivorship bias inflates active fund performance records.",
+        "example": "AI evaluates long-term fund performance while accounting for survivorship bias."
+      },
+      {
+        "book_title": "The Little Book of Common Sense Investing",
+        "category": "Diversification",
+        "key_concept": "Reducing Risk",
+        "description": "Diversifying across asset classes and including international markets reduces portfolio volatility and captures global growth opportunities.",
+        "example": "AI optimizes portfolio diversification by analyzing correlations among asset classes."
+      },
+      {
+        "book_title": "The Little Book of Common Sense Investing",
+        "category": "Investor Behavior",
+        "key_concept": "Emotional Decisions",
+        "description": "Investors often buy high during booms and sell low during crashes. Index investing mitigates these errors by removing the need to time the market.",
+        "example": "AI models steady contributions, such as dollar-cost averaging, to reduce emotional bias."
+      },
+      {
+        "book_title": "The Little Book of Common Sense Investing",
+        "category": "Investment Returns",
+        "key_concept": "Gross vs. Net Returns",
+        "description": "Gross market returns minus costs equal investor returns. Active strategies inherently reduce net returns due to higher costs.",
+        "example": "AI highlights cost impact in portfolio simulations to prioritize higher net returns."
+      },
+      {
+        "book_title": "The Little Book of Common Sense Investing",
+        "category": "Dividends",
+        "key_concept": "Dividends as Growth Drivers",
+        "description": "Reinvested dividends significantly contribute to long-term returns. Companies with growing dividends often outperform.",
+        "example": "AI tracks dividend yield and reinvestment potential to maximize compounding effects."
+      },
+      {
+        "book_title": "The Little Book of Common Sense Investing",
+        "category": "Simplicity",
+        "key_concept": "Simple Strategies Work",
+        "description": "Complex strategies introduce unnecessary risk and cost. Index investing is straightforward and effective for most investors.",
+        "example": "AI develops straightforward, cost-efficient models focused on broad market performance."
+      },
+      {
+        "book_title": "The Little Book of Common Sense Investing",
+        "category": "Market Timing Myths",
+        "key_concept": "Timing Doesn’t Work",
+        "description": "Predicting market highs and lows is nearly impossible. Staying invested through downturns yields better long-term performance.",
+        "example": "AI emphasizes long-term strategies and avoids portfolio adjustments based on short-term market conditions."
+      },
+      {
+        "book_title": "The Little Book of Common Sense Investing",
+        "category": "Historical Evidence",
+        "key_concept": "Index Investing Performance",
+        "description": "Over decades, index funds outperform most actively managed funds due to lower costs and consistent exposure to market returns.",
+        "example": "AI analyzes historical data to showcase the compounding benefits of index investing versus active management."
+      },
+      {
+        "book_title": "The Little Book of Common Sense Investing",
+        "category": "Investor Behavior",
+        "key_concept": "Why Most Investors Fail",
+        "description": "Investors often confuse short-term trading with long-term investing and chase high-performing funds, leading to underperformance.",
+        "example": "AI discourages reactionary investments and reinforces adherence to a long-term strategy."
+      },
+      {
+        "book_title": "The Little Book of Common Sense Investing",
+        "category": "Discipline",
+        "key_concept": "Stick to the Plan",
+        "description": "Discipline and patience are essential to weathering market volatility and avoiding distractions from day-to-day market noise.",
+        "example": "AI filters out short-term market noise and prioritizes steady growth strategies."
+      },
+      {
+        "book_title": "The Little Book of Common Sense Investing",
+        "category": "Compound Interest",
+        "key_concept": "The Snowball Effect",
+        "description": "Small, consistent contributions grow exponentially over decades. Starting early maximizes compounding benefits.",
+        "example": "AI simulates scenarios to show the long-term impact of early and consistent investing."
+      },
+      {
+        "book_title": "The Little Book of Common Sense Investing",
+        "category": "Risk and Reward",
+        "key_concept": "Market Volatility",
+        "description": "Volatility is inevitable but doesn’t define long-term performance. Index funds balance risk and reward across market cycles.",
+        "example": "AI integrates volatility metrics to optimize risk-adjusted portfolios."
+      },
+      {
+        "book_title": "The Little Book of Common Sense Investing",
+        "category": "Low-Cost Funds",
+        "key_concept": "The Case for Vanguard",
+        "description": "Vanguard's low-cost structure allows investors to keep more of their returns, making it a benchmark for cost efficiency.",
+        "example": "AI ranks investment options by expense ratios and historical net performance."
+      },
+      {
+        "book_title": "The Little Book of Common Sense Investing",
+        "category": "Rebalancing",
+        "key_concept": "Rebalancing for Long-Term Success",
+        "description": "Periodic rebalancing to maintain asset allocation reduces risk and enhances long-term returns.",
+        "example": "AI automates rebalancing schedules based on predefined allocation thresholds."
+      },
+      {
+        "book_title": "The Little Book of Common Sense Investing",
+        "category": "Bonds",
+        "key_concept": "Role of Bonds in a Portfolio",
+        "description": "Bonds provide stability, reduce portfolio volatility, and offer consistent income. Allocation should adjust with age.",
+        "example": "AI dynamically adjusts the stock-bond allocation as portfolio age increases."
+      },
+      {
+        "book_title": "The Little Book of Common Sense Investing",
+        "category": "Simplicity",
+        "key_concept": "Investing is About Simplicity",
+        "description": "Simple, low-cost index strategies outperform complex, actively managed approaches. Focus on fundamentals like economic growth and dividends.",
+        "example": "AI favors straightforward, low-turnover investment strategies for consistent results."
+      },
+      {
+        "book_title": "A Random Walk Down Wall Street",
+        "category": "Random Walk Theory",
+        "key_concept": "Core Concept",
+        "description": "Stock prices follow a random walk, meaning past movements cannot reliably predict future prices. Prices reflect all available information, making them inherently unpredictable.",
+        "example": "AI avoids over-reliance on historical price patterns and focuses on broader trends and fundamentals."
+      },
+      {
+        "book_title": "A Random Walk Down Wall Street",
+        "category": "Efficient Market Hypothesis (EMH)",
+        "key_concept": "Three Forms of Efficiency",
+        "description": "Weak Form: Past prices cannot predict future prices. Semi-Strong Form: Public information is instantly priced in. Strong Form: All information, including insider data, is reflected in prices.",
+        "example": "AI uses EMH principles to emphasize systematic investing rather than timing or stock-picking."
+      },
+      {
+        "book_title": "A Random Walk Down Wall Street",
+        "category": "Investment Strategies",
+        "key_concept": "Long-Term Passive Investing",
+        "description": "Index funds outperform actively managed funds due to lower costs and market efficiency. Buy-and-hold strategies yield higher returns than frequent trading.",
+        "example": "AI simulates and recommends long-term strategies aligned with passive investment principles."
+      },
+      {
+        "book_title": "A Random Walk Down Wall Street",
+        "category": "Speculation vs. Investing",
+        "key_concept": "Speculative Bubbles",
+        "description": "Markets occasionally deviate from efficiency due to irrational bubbles fueled by herd behavior, overconfidence, and greed.",
+        "example": "AI monitors sentiment and valuations to identify potential bubbles and avoid speculative investments."
+      },
+      {
+        "book_title": "A Random Walk Down Wall Street",
+        "category": "Behavioral Finance",
+        "key_concept": "Investor Biases",
+        "description": "Common biases include overconfidence, anchoring, and herd mentality, which create temporary market inefficiencies.",
+        "example": "AI uses sentiment analysis and psychological models to account for behavioral anomalies in predictions."
+      },
+      {
+        "book_title": "A Random Walk Down Wall Street",
+        "category": "Diversification",
+        "key_concept": "Risk Reduction",
+        "description": "Diversification reduces unsystematic risk while retaining market returns. Global diversification further reduces risk and enhances potential returns.",
+        "example": "AI constructs diversified portfolios across asset classes, sectors, and geographies."
+      },
+      {
+        "book_title": "A Random Walk Down Wall Street",
+        "category": "Technical Analysis",
+        "key_concept": "Critique of Technical Analysis",
+        "description": "Charts and patterns are unreliable due to randomness in price movements. Success is often attributed to luck rather than skill.",
+        "example": "AI uses technical indicators cautiously and combines them with fundamentals for greater accuracy."
+      },
+      {
+        "book_title": "A Random Walk Down Wall Street",
+        "category": "Fundamental Analysis",
+        "key_concept": "Challenges in Valuations",
+        "description": "Predicting company performance is difficult due to changing economic conditions and competitive landscapes.",
+        "example": "AI focuses on broad trends and data-driven fundamentals rather than precise stock valuations."
+      },
+      {
+        "book_title": "A Random Walk Down Wall Street",
+        "category": "Asset Allocation",
+        "key_concept": "Importance of Allocation",
+        "description": "Asset allocation determines the majority of portfolio returns. Younger investors should have higher equity exposure, while older investors prioritize bonds for stability.",
+        "example": "AI automates dynamic asset allocation based on age, goals, and risk tolerance."
+      },
+      {
+        "book_title": "A Random Walk Down Wall Street",
+        "category": "Risk Management",
+        "key_concept": "Volatility and Rebalancing",
+        "description": "Volatility is a measure of short-term risk, but long-term investors should focus on overall portfolio growth. Periodic rebalancing maintains target allocations.",
+        "example": "AI automates rebalancing and optimizes portfolios to minimize risk-adjusted volatility."
+      },
+      {
+        "book_title": "A Random Walk Down Wall Street",
+        "category": "Index Funds",
+        "key_concept": "Why Index Funds Work",
+        "description": "Index funds eliminate costs and risks of active management, providing market returns with minimal expenses. Over time, they outperform most actively managed funds.",
+        "example": "AI highlights low-cost index funds as the optimal choice for long-term investment strategies."
+      },
+      {
+        "book_title": "A Random Walk Down Wall Street",
+        "category": "The Importance of Time",
+        "key_concept": "Long-Term Horizon",
+        "description": "The longer the investment horizon, the lower the risk of negative returns. Compounding works exponentially over time.",
+        "example": "AI models and optimizes investment strategies based on time horizon, emphasizing the power of compounding."
+      },
+      {
+        "book_title": "A Random Walk Down Wall Street",
+        "category": "Market Timing",
+        "key_concept": "Pitfalls of Timing",
+        "description": "Predicting short-term market movements is nearly impossible. Staying invested during downturns leads to better long-term results.",
+        "example": "AI discourages frequent portfolio adjustments and reinforces long-term holding strategies."
+      },
+      {
+        "book_title": "A Random Walk Down Wall Street",
+        "category": "Modern Portfolio Theory (MPT)",
+        "key_concept": "Efficient Frontier",
+        "description": "A set of portfolios that offer the highest returns for a given level of risk. Diversification improves returns while reducing risk.",
+        "example": "AI uses MPT to construct portfolios on the efficient frontier and dynamically adjusts for changing correlations."
+      },
+      {
+        "book_title": "A Random Walk Down Wall Street",
+        "category": "Speculative Fads",
+        "key_concept": "Warning Signs",
+        "description": "Speculative bubbles are characterized by exuberant valuations, herd behavior, and excessive leverage, often leading to crashes.",
+        "example": "AI monitors market sentiment and valuation metrics to identify signs of speculative bubbles."
+      },
+      {
+        "book_title": "A Random Walk Down Wall Street",
+        "category": "Tax Efficiency",
+        "key_concept": "Tax Drag",
+        "description": "High portfolio turnover leads to higher taxes, reducing net returns. Tax-efficient strategies use tax-advantaged accounts and low-turnover investments.",
+        "example": "AI optimizes portfolio construction and rebalancing to minimize tax impact."
+      },
+      {
+        "book_title": "A Random Walk Down Wall Street",
+        "category": "The Role of Bonds",
+        "key_concept": "Stability and Income",
+        "description": "Bonds reduce portfolio volatility and provide steady income. Government, municipal, and corporate bonds offer unique risk-return profiles.",
+        "example": "AI dynamically allocates bonds to balance portfolio risk as market conditions change."
+      },
+      {
+        "book_title": "A Random Walk Down Wall Street",
+        "category": "Behavioral Finance",
+        "key_concept": "Overconfidence and Loss Aversion",
+        "description": "Overconfidence leads to overestimating market-beating abilities. Loss aversion causes poor decisions, such as selling during downturns.",
+        "example": "AI builds models to reduce emotional trading and reinforce disciplined behavior."
+      },
+      {
+        "book_title": "A Random Walk Down Wall Street",
+        "category": "Dollar-Cost Averaging (DCA)",
+        "key_concept": "How It Works",
+        "description": "Investing a fixed amount regularly smooths out the impact of market volatility and reduces market timing risk.",
+        "example": "AI simulates DCA strategies for consistent contributions regardless of market conditions."
+      },
+      {
+        "book_title": "A Random Walk Down Wall Street",
+        "category": "Golden Rules of Investing",
+        "key_concept": "Keep It Simple",
+        "description": "Stick to diversified, low-cost investments. Focus on time in the market rather than timing the market, and minimize fees, taxes, and turnover.",
+        "example": "AI designs investment strategies based on these principles to ensure sustainable growth."
+      },
+      {
+        "book_title": "A Random Walk Down Wall Street",
+        "category": "Final Thoughts",
+        "key_concept": "The Random Walk Revisited",
+        "description": "Market prices are unpredictable in the short term but rewarding over the long term. Invest in a diversified, low-cost portfolio and let compounding work its magic.",
+        "example": "AI encourages a disciplined approach to investing through low-cost, diversified portfolios and long-term strategies."
+      },
+      {
+        "book_title": "Common Stocks and Uncommon Profits",
+        "category": "Scuttlebutt Method",
+        "key_concept": "Definition",
+        "description": "Gather insights about a company by talking to suppliers, customers, employees, and industry experts to understand its competitive advantages and growth potential.",
+        "example": "AI uses data aggregation and sentiment analysis to replicate the scuttlebutt method at scale."
+      },
+      {
+        "book_title": "Common Stocks and Uncommon Profits",
+        "category": "15 Points",
+        "key_concept": "Qualitative Factors",
+        "description": "Evaluate companies based on factors like market potential, management strategy, R&D, profit margins, scalability, and shareholder communication.",
+        "example": "AI automates evaluation of these factors using company reports, news, and financial data."
+      },
+      {
+        "book_title": "Common Stocks and Uncommon Profits",
+        "category": "Growth Companies",
+        "key_concept": "Focus on Growth",
+        "description": "Invest in companies with strong competitive advantages, high ROE, and scalable business models.",
+        "example": "AI analyzes historical ROE, earnings growth, and market positioning to identify growth stocks."
+      },
+      {
+        "book_title": "Common Stocks and Uncommon Profits",
+        "category": "Patience",
+        "key_concept": "Long-Term Holding",
+        "description": "Hold quality stocks for decades to allow compounding of value over time.",
+        "example": "AI simulates and recommends long-term holding strategies for high-growth companies."
+      },
+      {
+        "book_title": "Common Stocks and Uncommon Profits",
+        "category": "Avoiding Mistakes",
+        "key_concept": "Common Errors",
+        "description": "Avoid selling great stocks too early, overreacting to short-term market fluctuations, and investing without thorough research.",
+        "example": "AI builds risk models to avoid reactionary decisions and highlights long-term fundamentals."
+      },
+      {
+        "book_title": "Common Stocks and Uncommon Profits",
+        "category": "Management Quality",
+        "key_concept": "Traits of Good Management",
+        "description": "Innovation, honesty, and a focus on long-term shareholder value are essential traits of good management.",
+        "example": "AI uses text analysis and performance data to assess management quality."
+      },
+      {
+        "book_title": "Common Stocks and Uncommon Profits",
+        "category": "Earnings vs. Dividends",
+        "key_concept": "Preference for Growth",
+        "description": "Reinvested profits drive compounding better than paying out dividends.",
+        "example": "AI focuses on companies with high reinvestment rates and strong earnings growth."
+      },
+      {
+        "book_title": "Common Stocks and Uncommon Profits",
+        "category": "Market Timing",
+        "key_concept": "Long-Term Perspective",
+        "description": "Avoid market timing and focus on buying quality stocks at reasonable valuations for the long term.",
+        "example": "AI prioritizes fundamental analysis over short-term price movements."
+      },
+      {
+        "book_title": "Common Stocks and Uncommon Profits",
+        "category": "Financial Health",
+        "key_concept": "Key Metrics",
+        "description": "Evaluate companies based on strong balance sheets, low debt-to-equity ratios, and consistent cash flow generation.",
+        "example": "AI automates financial health evaluations using real-time financial data."
+      },
+      {
+        "book_title": "Common Stocks and Uncommon Profits",
+        "category": "Competitive Advantage",
+        "key_concept": "Moats",
+        "description": "Companies with durable competitive advantages, such as strong brands and high customer retention, are more likely to sustain growth.",
+        "example": "AI analyzes market share, customer loyalty, and operational efficiency to evaluate competitive advantages."
+      },
+      {
+        "book_title": "Common Stocks and Uncommon Profits",
+        "category": "Investing in Innovators",
+        "key_concept": "R&D as a Growth Driver",
+        "description": "Companies with strong R&D are better positioned to innovate and stay ahead of competitors, consistently launching new products or improving processes.",
+        "example": "AI tracks R&D spending and patent activity to identify innovation-driven companies."
+      },
+      {
+        "book_title": "Common Stocks and Uncommon Profits",
+        "category": "Industry Dynamics",
+        "key_concept": "Industry Lifecycle",
+        "description": "Analyze whether a company operates in a growing, mature, or declining industry and assess its market position.",
+        "example": "AI uses market trend analysis to evaluate industry growth and company positioning."
+      },
+      {
+        "book_title": "Common Stocks and Uncommon Profits",
+        "category": "Customer Relationships",
+        "key_concept": "Repeat Business",
+        "description": "Companies with loyal customers and recurring revenue streams are more stable and consistent.",
+        "example": "AI analyzes customer reviews, retention rates, and revenue consistency to evaluate customer relationships."
+      },
+      {
+        "book_title": "Common Stocks and Uncommon Profits",
+        "category": "Valuation",
+        "key_concept": "Buy at the Right Price",
+        "description": "Even great companies can be bad investments if purchased at excessively high valuations. Metrics like P/E, P/S, and DCF help assess value.",
+        "example": "AI automates valuation calculations to compare stocks and identify underpriced opportunities."
+      },
+      {
+        "book_title": "Common Stocks and Uncommon Profits",
+        "category": "Handling Setbacks",
+        "key_concept": "Short-Term Issues",
+        "description": "Temporary setbacks can create buying opportunities for fundamentally strong companies.",
+        "example": "AI flags high-quality companies with short-term challenges but long-term resilience."
+      },
+      {
+        "book_title": "Common Stocks and Uncommon Profits",
+        "category": "Avoiding Mediocrity",
+        "key_concept": "Focus on Excellence",
+        "description": "Mediocre companies often fail to deliver sustained growth, with signs like poor management, lack of innovation, and inconsistent earnings.",
+        "example": "AI filters out companies that fail to meet critical benchmarks."
+      },
+      {
+        "book_title": "Common Stocks and Uncommon Profits",
+        "category": "Stockholder Communication",
+        "key_concept": "Transparency",
+        "description": "Favor companies that communicate openly and honestly with investors through clear annual reports and financial statements.",
+        "example": "AI uses NLP to evaluate the tone and clarity of company reports."
+      },
+      {
+        "book_title": "Common Stocks and Uncommon Profits",
+        "category": "Compounding",
+        "key_concept": "Reinvestment of Profits",
+        "description": "Companies that reinvest earnings effectively can grow exponentially over time.",
+        "example": "AI simulates the impact of reinvestment on long-term stock performance to identify compounding opportunities."
+      },
+      {
+        "book_title": "Common Stocks and Uncommon Profits",
+        "category": "Selling Strategy",
+        "key_concept": "When to Sell",
+        "description": "Sell when the company's fundamentals deteriorate, a better opportunity arises, or the valuation becomes excessively overextended. Avoid selling too early.",
+        "example": "AI monitors fundamentals and valuations to guide sell decisions without emotional bias."
+      },
+      {
+        "book_title": "Common Stocks and Uncommon Profits",
+        "category": "Key Takeaway",
+        "key_concept": "Think Like a Business Owner",
+        "description": "Invest in companies as if buying the entire business. Focus on quality businesses with visionary management and strong growth potential.",
+        "example": "AI prioritizes high-quality companies with durable advantages and long-term growth potential."
+      },
+      {
+        "book_title": "Common Stocks and Uncommon Profits",
+        "category": "Final Thoughts",
+        "key_concept": "Philip Fisher’s Legacy",
+        "description": "Fisher’s principles emphasize qualitative analysis, patience, and long-term vision, offering strategies for sustainable wealth creation.",
+        "example": "AI integrates Fisher’s principles to build models for identifying high-growth, quality investments."
+      },
+      {
+        "book_title": "The Intelligent Investor",
+        "category": "Investing vs. Speculating",
+        "key_concept": "Core Principle",
+        "description": "Investing focuses on preserving capital and earning a reasonable return, while speculating involves high risk and attempts to profit from market swings.",
+        "example": "An investment promises safety of principal and an adequate return upon thorough analysis."
+      },
+      {
+        "book_title": "The Intelligent Investor",
+        "category": "Investor Types",
+        "key_concept": "Defensive vs. Enterprising Investor",
+        "description": "Defensive investors seek steady returns with minimal effort, focusing on bonds and index funds. Enterprising investors pursue higher returns through active stock selection.",
+        "example": "AI tailors strategies for both types by balancing risk tolerance and effort level."
+      },
+      {
+        "book_title": "The Intelligent Investor",
+        "category": "Market Behavior",
+        "key_concept": "Mr. Market",
+        "description": "Mr. Market is a metaphor for the stock market's emotional behavior, often offering irrational prices.",
+        "example": "AI uses historical price anomalies to identify mispriced assets."
+      },
+      {
+        "book_title": "The Intelligent Investor",
+        "category": "Safety",
+        "key_concept": "Margin of Safety",
+        "description": "The difference between the intrinsic value of an asset and its market price provides a safety buffer against errors and volatility.",
+        "example": "AI automates intrinsic value calculations to identify undervalued opportunities."
+      },
+      {
+        "book_title": "The Intelligent Investor",
+        "category": "Valuation",
+        "key_concept": "Intrinsic Value",
+        "description": "Intrinsic value is calculated based on future earnings and a discount factor accounting for the time value of money.",
+        "example": "AI performs discounted cash flow (DCF) analysis to compute intrinsic value dynamically."
+      },
+      {
+        "book_title": "The Intelligent Investor",
+        "category": "Risk Management",
+        "key_concept": "Concept of Risk",
+        "description": "Diversify across asset classes and industries to mitigate business, market, and inflation risks.",
+        "example": "AI quantifies risks using historical data and constructs diversified portfolios."
+      },
+      {
+        "book_title": "The Intelligent Investor",
+        "category": "Investment Strategy",
+        "key_concept": "Dollar-Cost Averaging (DCA)",
+        "description": "Invest a fixed amount at regular intervals to reduce the impact of volatility and avoid market timing.",
+        "example": "AI automates DCA strategies for consistent, disciplined investing."
+      },
+      {
+        "book_title": "The Intelligent Investor",
+        "category": "Stock Selection",
+        "key_concept": "Criteria for Defensive and Enterprising Investors",
+        "description": "Defensive investors focus on stable, high-quality stocks, while enterprising investors seek undervalued, high-potential opportunities.",
+        "example": "AI screens for stocks meeting these criteria using real-time data."
+      },
+      {
+        "book_title": "The Intelligent Investor",
+        "category": "Dividends",
+        "key_concept": "Value of Dividends",
+        "description": "Dividends provide stability and income during market downturns. A high dividend yield indicates value.",
+        "example": "AI ranks stocks based on dividend yield and consistency."
+      },
+      {
+        "book_title": "The Intelligent Investor",
+        "category": "Valuation Metrics",
+        "key_concept": "P/E Ratio",
+        "description": "The price-to-earnings (P/E) ratio helps evaluate whether a stock is undervalued or overvalued.",
+        "example": "AI evaluates P/E in the context of industry norms and historical trends."
+      },
+      {
+        "book_title": "The Intelligent Investor",
+        "category": "Bond Allocation",
+        "key_concept": "Graham’s Rule of Thumb",
+        "description": "Maintain a 50-50 balance between stocks and bonds, adjusting based on age and risk tolerance.",
+        "example": "AI dynamically rebalances portfolios based on market conditions and investor goals."
+      },
+      {
+        "book_title": "The Intelligent Investor",
+        "category": "Speculation",
+        "key_concept": "The Intelligent Speculator",
+        "description": "Speculate only with a small portion of your portfolio, separating speculative funds from core investments.",
+        "example": "AI identifies speculative opportunities while maintaining strict risk controls."
+      },
+      {
+        "book_title": "The Intelligent Investor",
+        "category": "Special Situations and Arbitrage",
+        "key_concept": "Event-Driven Opportunities",
+        "description": "Special situations such as mergers, acquisitions, liquidations, and spin-offs can create arbitrage opportunities.",
+        "example": "AI tracks corporate announcements and event-driven opportunities for potential arbitrage."
+      },
+      {
+        "book_title": "The Intelligent Investor",
+        "category": "Inflation",
+        "key_concept": "Inflation and Real Returns",
+        "description": "Inflation erodes real returns. Focus on equities with pricing power and inflation-resistant assets.",
+        "example": "AI prioritizes investments in utilities, real estate, and inflation-resistant assets."
+      },
+      {
+        "book_title": "The Intelligent Investor",
+        "category": "Behavioral Insights",
+        "key_concept": "Mr. Market Revisited",
+        "description": "Mr. Market's daily offers reflect emotions like fear or greed. Successful investors capitalize on his irrational pricing.",
+        "example": "AI identifies opportunities where market prices deviate significantly from intrinsic value."
+      },
+      {
+        "book_title": "The Intelligent Investor",
+        "category": "Common Pitfalls",
+        "key_concept": "Avoid Emotional Decisions",
+        "description": "Emotional decisions such as fear-driven selling and greed-driven buying lead to poor investment outcomes.",
+        "example": "AI creates models that prioritize systematic, data-driven decision-making to eliminate emotional bias."
+      },
+      {
+        "book_title": "The Intelligent Investor",
+        "category": "Portfolio Allocation",
+        "key_concept": "Graham’s Portfolio Allocation",
+        "description": "Defensive portfolios should balance stocks and bonds evenly, while enterprising portfolios may include undervalued stocks and special situations.",
+        "example": "AI automates allocation shifts based on valuation metrics and market sentiment."
+      },
+      {
+        "book_title": "The Intelligent Investor",
+        "category": "Earnings Stability",
+        "key_concept": "Analyzing Earnings Consistency",
+        "description": "Companies with consistent earnings over 5–10 years indicate stability.",
+        "example": "AI calculates and ranks companies by earnings consistency for defensive investments."
+      },
+      {
+        "book_title": "The Intelligent Investor",
+        "category": "Deep Value Investing",
+        "key_concept": "Net-Net Investing",
+        "description": "Purchase stocks trading below their net current asset value (NCAV) to find deeply undervalued opportunities.",
+        "example": "AI automates scans for stocks meeting this deep value criterion in real time."
+      },
+      {
+        "book_title": "The Intelligent Investor",
+        "category": "Dividends",
+        "key_concept": "Dividend Stability and Growth",
+        "description": "Companies with consistent dividend payments and low payout ratios offer financial stability.",
+        "example": "AI identifies stocks with low payout ratios and consistent dividend growth for long-term stability."
+      },
+      {
+        "book_title": "The Intelligent Investor",
+        "category": "Security Analysis",
+        "key_concept": "Framework",
+        "description": "Combine qualitative insights on management, competitive position, and industry trends with quantitative financial modeling.",
+        "example": "AI integrates NLP for qualitative analysis with financial modeling for quantitative evaluation."
+      },
+      {
+        "book_title": "The Intelligent Investor",
+        "category": "Defensive Investing",
+        "key_concept": "Defensive Investor’s Checklist",
+        "description": "Screen for high-quality stocks with strong financial conditions, consistent dividends, and stable earnings.",
+        "example": "AI develops screening tools to filter stocks based on defensive criteria."
+      },
+      {
+        "book_title": "The Intelligent Investor",
+        "category": "Enterprising Investing",
+        "key_concept": "Enterprising Investor’s Playbook",
+        "description": "Focus on undervalued growth stocks, special situations, and cyclical stocks during downturns.",
+        "example": "AI tracks and identifies these opportunities with risk-adjusted metrics."
+      },
+      {
+        "book_title": "The Intelligent Investor",
+        "category": "Bond Investing",
+        "key_concept": "Inflation and Bond Investing",
+        "description": "Avoid long-term bonds during inflationary periods. Focus on inflation-protected securities (TIPS).",
+        "example": "AI monitors inflation trends to adjust bond allocations dynamically."
+      },
+      {
+        "book_title": "The Intelligent Investor",
+        "category": "Market Crashes",
+        "key_concept": "Crashes and Recovery",
+        "description": "Market crashes are inevitable but offer opportunities to buy quality assets at a discount.",
+        "example": "AI analyzes historical recovery patterns to identify optimal entry points during corrections."
+      },
+      {
+        "book_title": "The Intelligent Investor",
+        "category": "Final Thoughts",
+        "key_concept": "Timeless Wisdom",
+        "description": "Graham’s principles of value investing emphasize patience, discipline, and a margin of safety, remaining relevant in all market conditions.",
+        "example": "AI automates Graham’s methodologies for intrinsic value calculation, risk management, and disciplined investing."
+      },
+      {
+        "book_title": "Security Analysis",
+        "category": "Intrinsic Value",
+        "key_concept": "Definition",
+        "description": "Intrinsic value represents the true worth of a security, calculated using discounted cash flow (DCF) models based on expected cash flows.",
+        "example": "AI automates intrinsic value calculations using real-time data and DCF models."
+      },
+      {
+        "book_title": "Security Analysis",
+        "category": "Margin of Safety",
+        "key_concept": "Concept",
+        "description": "The margin of safety is the difference between the market price and the intrinsic value, providing protection against valuation errors and volatility.",
+        "example": "AI identifies undervalued securities with a margin of safety threshold (e.g., 25% or more)."
+      },
+      {
+        "book_title": "Security Analysis",
+        "category": "Qualitative vs. Quantitative Analysis",
+        "key_concept": "Comparison",
+        "description": "Combine qualitative factors like management quality and industry trends with quantitative metrics such as earnings and debt levels for comprehensive evaluation.",
+        "example": "AI integrates sentiment analysis for qualitative insights with financial modeling for quantitative evaluation."
+      },
+      {
+        "book_title": "Security Analysis",
+        "category": "Income Statement",
+        "key_concept": "Earnings Stability and Margins",
+        "description": "Stable earnings and high operating margins indicate financial health and operational efficiency.",
+        "example": "AI tracks income statement trends and flags anomalies for deeper analysis."
+      },
+      {
+        "book_title": "Security Analysis",
+        "category": "Balance Sheet",
+        "key_concept": "Key Metrics",
+        "description": "Metrics such as the current ratio and debt-to-equity ratio assess a company's liquidity, solvency, and financial stability.",
+        "example": "AI automates balance sheet analysis for real-time evaluation of financial health."
+      },
+      {
+        "book_title": "Security Analysis",
+        "category": "Book Value",
+        "key_concept": "Tangible Assets",
+        "description": "Book value per share and tangible book value exclude intangible assets to focus on hard asset valuation.",
+        "example": "AI compares market price to tangible book value to identify deep-value stocks."
+      },
+      {
+        "book_title": "Security Analysis",
+        "category": "Fixed-Income Securities",
+        "key_concept": "Bond Valuation",
+        "description": "Evaluate bonds based on yield, duration, credit quality, and potential equity conversion in the case of convertible bonds.",
+        "example": "AI evaluates bond portfolios for yield, duration, and credit risk."
+      },
+      {
+        "book_title": "Security Analysis",
+        "category": "Earnings Power Value",
+        "key_concept": "Formula",
+        "description": "Earnings Power Value (EPV) is calculated by dividing adjusted earnings by the discount rate, providing a snapshot of profitability independent of growth assumptions.",
+        "example": "AI automates EPV calculations and compares it to market capitalization to spot mispriced securities."
+      },
+      {
+        "book_title": "Security Analysis",
+        "category": "Dividends and Retained Earnings",
+        "key_concept": "Dividend Stability and Retention Ratio",
+        "description": "Consistent dividends indicate financial health, while retention ratios reveal reinvestment versus shareholder returns.",
+        "example": "AI monitors dividend payout trends and retention ratios for growth versus income strategies."
+      },
+      {
+        "book_title": "Security Analysis",
+        "category": "Cyclical vs. Defensive Stocks",
+        "key_concept": "Stock Types",
+        "description": "Cyclical stocks are sensitive to economic cycles, while defensive stocks remain stable during downturns.",
+        "example": "AI adjusts portfolio allocations based on economic conditions and stock classifications."
+      },
+      {
+        "book_title": "Security Analysis",
+        "category": "Industry-Specific Analysis",
+        "key_concept": "Sector Metrics",
+        "description": "Use tailored metrics for sector evaluation, such as loan-to-deposit ratios for banks, R&D spending for tech, and regulatory risk for utilities.",
+        "example": "AI customizes evaluation criteria for sector-specific analysis."
+      },
+      {
+        "book_title": "Security Analysis",
+        "category": "Special Situations",
+        "key_concept": "Event-Driven Opportunities",
+        "description": "Special situations such as mergers, spin-offs, and liquidations create arbitrage opportunities by exploiting pricing inefficiencies.",
+        "example": "AI tracks corporate announcements to identify event-driven opportunities."
+      },
+      {
+        "book_title": "Security Analysis",
+        "category": "Market Sentiment",
+        "key_concept": "Behavioral Aspects",
+        "description": "Market overreaction to news or events creates opportunities for value investors.",
+        "example": "AI uses sentiment analysis to identify underpriced or overpriced securities."
+      },
+      {
+        "book_title": "Security Analysis",
+        "category": "Inflation",
+        "key_concept": "Impact of Inflation",
+        "description": "Inflation erodes real returns, making equities with pricing power and inflation-resistant assets valuable.",
+        "example": "AI monitors inflation indicators and adjusts portfolios toward inflation-resistant assets like utilities and real estate."
+      },
+      {
+        "book_title": "Security Analysis",
+        "category": "Graham's Framework",
+        "key_concept": "Core Principles",
+        "description": "Graham emphasized safety of principal, margin of safety, and intrinsic value over market sentiment.",
+        "example": "AI builds models to replicate Graham's systematic valuation and risk management approach."
+      },
+      {
+        "book_title": "Security Analysis",
+        "category": "Specialized Valuation Techniques",
+        "key_concept": "Liquidation Value and Reproduction Cost",
+        "description": "Liquidation value assumes the company is dissolved, while reproduction cost estimates the cost to recreate its assets.",
+        "example": "AI automates liquidation and reproduction cost analysis to find undervalued companies."
+      },
+      {
+        "book_title": "Security Analysis",
+        "category": "Investment Styles",
+        "key_concept": "Growth vs. Value Investing",
+        "description": "Growth focuses on future potential, while value targets stocks priced below intrinsic value.",
+        "example": "AI models balance growth prospects with valuation metrics for informed decisions."
+      },
+      {
+        "book_title": "Security Analysis",
+        "category": "Earnings Quality",
+        "key_concept": "Normalized Earnings",
+        "description": "Smooth out cyclical fluctuations to assess true earning power and detect manipulation.",
+        "example": "AI detects anomalies in earnings patterns using forensic accounting tools."
+      },
+      {
+        "book_title": "Security Analysis",
+        "category": "Debt Analysis",
+        "key_concept": "Debt and Leverage Ratios",
+        "description": "Key metrics like interest coverage ratio and leverage ratio assess a company's ability to manage debt.",
+        "example": "AI monitors debt levels and coverage ratios to flag financially over-leveraged companies."
+      },
+      {
+        "book_title": "Security Analysis",
+        "category": "Preferred Stock",
+        "key_concept": "Valuation",
+        "description": "Preferred stocks are valued like bonds using the present value of dividends.",
+        "example": "AI identifies undervalued preferred stocks with favorable risk-return profiles."
+      },
+      {
+        "book_title": "Security Analysis",
+        "category": "Market Inefficiencies",
+        "key_concept": "Exploiting Inefficiencies",
+        "description": "Markets are not always efficient, creating opportunities in small-cap stocks, illiquid securities, and neglected industries.",
+        "example": "AI uses anomaly detection to uncover overlooked opportunities."
+      },
+      {
+        "book_title": "Security Analysis",
+        "category": "Sector-Specific Metrics",
+        "key_concept": "Industry Tailored Valuation",
+        "description": "Different metrics apply to different sectors, such as R&D for tech or regulatory compliance for utilities.",
+        "example": "AI customizes evaluation criteria for sector-specific analysis."
+      },
+      {
+        "book_title": "Security Analysis",
+        "category": "Behavioral Pitfalls",
+        "key_concept": "Overreaction and Anchoring Bias",
+        "description": "Investors often overreact to news or fixate on past prices, ignoring fundamentals.",
+        "example": "AI creates systems that rely on data-driven analysis to avoid emotional biases."
+      },
+      {
+        "book_title": "Security Analysis",
+        "category": "Portfolio Construction",
+        "key_concept": "Diversification vs. Concentration",
+        "description": "Diversify to reduce risk or concentrate on high-confidence investments for higher returns.",
+        "example": "AI dynamically optimizes portfolio allocations based on changing market conditions."
+      },
+      {
+        "book_title": "Security Analysis",
+        "category": "Income-Producing Assets",
+        "key_concept": "Focus on Yield",
+        "description": "Bonds, REITs, and dividend stocks provide steady income streams. Evaluate credit quality and interest rate risk.",
+        "example": "AI ranks income-producing assets by yield, stability, and inflation-adjusted returns."
+      },
+      {
+        "book_title": "Security Analysis",
+        "category": "Economic Cycles",
+        "key_concept": "Cyclicality and Sector Rotation",
+        "description": "Identify how companies and sectors perform in different phases of the economic cycle.",
+        "example": "AI monitors economic indicators to recommend sector-specific adjustments."
+      },
+      {
+        "book_title": "Security Analysis",
+        "category": "Patience and Discipline",
+        "key_concept": "Avoid Impulse Decisions",
+        "description": "Long-term thinking and avoiding short-term speculation are essential for success.",
+        "example": "AI reinforces patience and rational decision-making by modeling investment scenarios."
+      }
+    ]
+  }  
